@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, This side Karishma Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/TcGeAvy5O6vFTDVTwbwhdp1cqJo6ZevklwAQFMqVCe0.gif?format=mp4&v=enabled&s=717c78442f7fc82adcbd8a645a7427d7da7c3248" \>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" \>
 
 - 🔭 I’m currently working on **Daily Stormer**
 
