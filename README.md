@@ -1,4 +1,5 @@
-![MasterHead](https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media)]
+[![MasterHead](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)]
+
 <h1 align="center">Hi 👋, This side Karishma Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" \>
