@@ -1,4 +1,4 @@
-![MasterHead]([https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif](https://cdn.dribbble.com/users/1078019/screenshots/4316751/womensday-gif29.7jjj.gif))
+![MasterHead](https://cdn.dribbble.com/users/1078019/screenshots/4316751/womensday-gif29.7jjj.gif)
 
 <h1 align="center">Hi 👋, This side Karishma Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
