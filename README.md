@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **karishmakg15@gmail.com**
 
-- ⚡ Fun fact **I think I am more serious and at the same time I'm not**
+- ⚡ Fun fact **: I think I am more serious and at the same time I'm not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
