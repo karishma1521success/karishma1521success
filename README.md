@@ -1,18 +1,18 @@
 ![MasterHead](https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif)
 
 <h1 align="center">Hi 👋, This side Karishma Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic MCA Student | Cloud Computing Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" \>
 
-- 🔭 I’m currently working on **Daily Stormer**
+- 🔭 I’m currently working on **Jenkins Project**
 
-- 🌱 I’m currently learning **Reactjs and Nodejs**
+- 🌱 I’m currently learning **CI/CD and AWS**
 
-- 💬 Ask me about **HTML,CSS,BootStrap and JavaScript,**
+- 💬 Ask me about **Python, Linux, Git, Github and Docker**
 
 - 📫 How to reach me **karishmakg15@gmail.com**
 
-- ⚡ Fun fact **: I think I am more serious and at the same time I'm not**
+- ⚡ Fun fact **: I can automate my morning coffee routine! ☕ Learning DevOps and cloud computing to streamline everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
