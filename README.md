@@ -1,32 +1,191 @@
 ![MasterHead](https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif)
 
-<h1 align="center">Hi 👋, This side Karishma Gupta</h1>
-<h3 align="center">Enthusiastic MCA Student | Cloud Computing Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" \>
 
-- 🔭 I’m currently working on **Jenkins Project**
+# Hi 👋, I'm Karishma Gupta
 
-- 🌱 I’m currently learning **CI/CD and AWS**
+### Jr. DevOps Engineer | AWS | Kubernetes | Jenkins | Docker | Terraform | Helm | ArgoCD | Amazon EKS
 
-- 💬 Ask me about **Python, Linux, Git, Github and Docker**
+<img align="right" alt="DevOps" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 📫 How to reach me **karishmakg15@gmail.com**
+🚀 Passionate DevOps Engineer with 1+ year of hands-on experience in cloud infrastructure, CI/CD automation, Kubernetes deployments, and Linux administration.
 
-- ⚡ Fun fact **: I can automate my morning coffee routine! ☕ Learning DevOps and cloud computing to streamline everything**
+I enjoy building scalable, automated, and reliable infrastructure using AWS and modern DevOps practices. Currently focused on Kubernetes, GitOps, Infrastructure as Code, and Cloud-Native technologies.
 
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karishma-gupta-063376226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karishma-gupta-063376226/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karishma-gupta-063376226/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📧 Email: **[karishmag0021@gmail.com](mailto:karishmag0021@gmail.com)**
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karishma1521success&show_icons=true&locale=en&layout=compact" alt="karishma1521success" /></p>
+## 💼 Professional Highlights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karishma1521success&show_icons=true&locale=en" alt="karishma1521success" /></p>
+✅ 1+ Year Experience as a DevOps Engineer
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karishma1521success&" alt="karishma1521success" /></p>
+✅ Managed 120+ Production Deployments
 
+✅ Worked with Jenkins CI/CD Pipelines
+
+✅ Hands-on Experience with Amazon EKS
+
+✅ Implemented GitOps Deployments using ArgoCD
+
+✅ Developed Jenkins Shared Libraries
+
+✅ Automated SonarQube and Nexus Integration
+
+✅ AWS Infrastructure Management
+
+✅ Linux System Administration
+
+---
+
+## 🚀 Featured Projects
+
+### CI/CD Pipeline with Jenkins, Kubernetes & ArgoCD
+
+* Jenkins Pipeline Automation
+* Maven Build Process
+* SonarQube Integration
+* Docker Image Creation
+* Kubernetes Deployment
+* Helm Chart Management
+* GitOps Deployment using ArgoCD
+
+### Server Consolidation & CI/CD Migration
+
+* Migrated Multiple Client Environments
+* Restored Application & Database Services
+* Implemented Client-wise CI/CD Pipelines
+* Optimized Infrastructure Cost
+
+### Dockerized 2048 Game Deployment
+
+* Containerized Application using Docker
+* Automated Deployment using Jenkins
+* Continuous Integration Workflow
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### ⚙️ CI/CD & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,docker,kubernetes" />
+</p>
+
+### 🏗️ Infrastructure as Code
+
+<p>
+<img src="https://skillicons.dev/icons?i=terraform" />
+</p>
+
+### 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+* Ubuntu
+* CentOS
+* RHEL
+* Amazon Linux 2023
+* Windows
+
+### 👨‍💻 Scripting & Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+---
+
+## ☁️ AWS Services
+
+* EC2
+* VPC
+* IAM
+* S3
+* Route53
+* RDS
+* ELB
+* ECR
+* CloudWatch
+* SNS
+* Amazon EKS
+
+---
+
+## 🔧 DevOps Tools
+
+* Jenkins
+* GitHub
+* GitLab
+* SonarQube
+* Nexus Repository
+* Docker
+* Kubernetes
+* Helm
+* ArgoCD
+* Terraform
+* AWS CloudFormation
+* Signoz
+* Zabbix
+
+---
+
+## 🏆 Certifications
+
+🥇 AWS Solutions Architect Badge
+
+🥇 Programming Fundamentals Using Python – Infosys
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karishma1521success&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=karishma1521success&show_icons=true&locale=en" alt="github stats" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karishma1521success" alt="github streak" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+🌱 Deepening expertise in:
+
+* Kubernetes Administration
+* Amazon EKS
+* Terraform
+* GitOps
+* ArgoCD
+* Cloud Architecture
+* Production-grade DevOps Practices
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy automating repetitive tasks and building infrastructure that scales efficiently. Every manual process is an opportunity for automation 🚀
