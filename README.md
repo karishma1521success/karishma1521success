@@ -7,7 +7,7 @@
 
 <img align="right" alt="DevOps" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-🚀 Passionate DevOps Engineer with 1+ year of hands-on experience in cloud infrastructure, CI/CD automation, Kubernetes deployments, and Linux administration.
+🚀 Passionate DevOps Engineer with 1.5+ year of hands-on experience in cloud infrastructure, CI/CD automation, Kubernetes deployments, and Linux administration.
 
 I enjoy building scalable, automated, and reliable infrastructure using AWS and modern DevOps practices. Currently focused on Kubernetes, GitOps, Infrastructure as Code, and Cloud-Native technologies.
 
